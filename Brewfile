@@ -27,3 +27,5 @@ cask "visual-studio-code"
 cask "vlc"
 # Edge
 cask "microsoft-edge"
+# GitKraken
+cask "gitkraken"

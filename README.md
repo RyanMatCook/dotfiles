@@ -11,3 +11,10 @@ xcode-select --install
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+3. Whack the brewfile
+
+
+```
+brew bundle --file=~/.dotfiles/Brewfile
+```
